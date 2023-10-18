@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my portfolio! My name is Nnenna and I am a research professional venturing into data analytics. Currently based in Washington, D.C. with a background in Psychology and Research.
+Welcome to my portfolio! My name is Nnenna and I am a research professional and data analyst. Currently based in Washington, D.C. with a background in Psychology and Research.
 
 **Education**
 * Bachelor of Arts in Psychology - University of Maryland, College Park
